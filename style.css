@@ -35,7 +35,7 @@ font-family: "Outfit", sans-serif;
 }
 
 .header {
-  width: 29%;
+  width: 33%;
   text-align: center;
   margin: 48px 0 48px 0;
 }
@@ -109,7 +109,7 @@ font-family: "Outfit", sans-serif;
 
 @media (max-width:640px){
    .header {
-  width: 109%;
+  width: 80%;
   
  
 }
